@@ -1,0 +1,36 @@
+# https://github.com/stub42/pytz
+pytz
+# https://github.com/un33k/python-slugify
+python-slugify
+# https://github.com/python-pillow/Pillow
+Pillow==9.5.0
+# https://github.com/hynek/argon2_cffi
+argon2-cffi
+# https://github.com/redis/redis-py
+redis
+# https://github.com/redis/hiredis-py
+hiredis
+
+# Django
+# https://www.djangoproject.com/
+django
+# https://github.com/joke2k/django-environ
+django-environ
+# https://github.com/jazzband/django-model-utils
+django-model-utils
+# https://github.com/pennersr/django-allauth
+django-allauth
+# https://github.com/django-crispy-forms/django-crispy-forms
+django-crispy-forms
+# https://github.com/django-crispy-forms/crispy-bootstrap5
+crispy-bootstrap5
+# https://github.com/jazzband/django-redis
+django-redis
+# Django REST Framework
+# # https://github.com/encode/django-rest-framework
+djangorestframework
+# https://github.com/adamchainz/django-cors-headers
+django-cors-headers
+# DRF-spectacular for api documentation
+# https://github.com/tfranzel/drf-spectacular
+drf-spectacular
